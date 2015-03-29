@@ -1,10 +1,10 @@
 {
   "name": "inspinia",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "INSPINIA - Responsive Admin Theme",
   "main": [
-	"assets/stylesheets/styles.scss",
-	"assets/stylesheets/inspinia.all.min.js"
+	"assets/assets/style.scss",
+	"assets/js/inspinia.js"
   ],
   "keywords": [
     "bootstrap",
