@@ -1,6 +1,6 @@
 {
   "name": "inspinia",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "INSPINIA - Responsive Admin Theme",
   "main": [
 	"assets/assets/style.scss",
